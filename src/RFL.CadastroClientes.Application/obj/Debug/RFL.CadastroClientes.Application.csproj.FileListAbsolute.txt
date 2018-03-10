@@ -1,0 +1,6 @@
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.pdb

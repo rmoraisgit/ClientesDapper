@@ -1,0 +1,11 @@
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.pdb
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.csproj.CopyComplete
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\Rafael\Documents\Visual Studio 2017\Projects\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.xml
